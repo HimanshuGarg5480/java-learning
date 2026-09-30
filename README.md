@@ -1,3 +1,3 @@
 # java-learning
 
-this is the start of Java Learning
+This is the start of Java Learning
